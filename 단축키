@@ -8,4 +8,7 @@ Ctrl + /
 Ctrl + Tab : 옆으로
 Ctrl + Shift + Tab : 앞으로 
 Ctrl + W : 꺼짐
-Ctrl + Shift + T : 꺼진거 살리기
+Ctrl + Shift + T : 꺼진거 살리rl
+ALt + 방향키 : 드래그 옮기기
+ALt + Shift + 방향키 : 드래그 복사
+Shift + 방향키 : 드래그 
